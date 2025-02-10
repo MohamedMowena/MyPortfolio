@@ -374,3 +374,6 @@ body {
     padding: 20px;
     min-height: calc(100vh - 160px);
 }
+.page-content {
+    padding-top: 100px; /* زود الرقم حسب حجم الهيدر */
+}
